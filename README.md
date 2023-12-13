@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcusT99
-- 👀 I’m interested in Data Scienc and Machine Learning
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python and other data science tools
 - 💞️ I’m looking to collaborate on machine learning and data science 
 - 📫 I can be reached at marcustboswell@gmail.com
